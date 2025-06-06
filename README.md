@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://belaraby-five.vercel.app/logo.png" alt="Belaraby Logo" width="200" />
-  <h1>Bl3araby – Cultural E-Commerce Platform</h1>
-  <p>Celebrating Arabian, Bedouin, and Nubian heritage through a seamless online shopping experience.</p>
-  <a href="https://belaraby-five.vercel.app/" target="_blank">
+  <h1>Bl3araby – E-Commerce Platform</h1>
+  <p>Celebrating Arabic heritage through a seamless online shopping experience.</p>
+  <a href="https://www.bl3araby.store/" target="_blank">
     <strong>🔗 Visit the Live Website</strong>
   </a>
 </div>
@@ -11,7 +11,7 @@
 
 ## 🎯 Purpose
 
-Bl3araby connects people with authentic cultural products from across the Arabian, Bedouin, and Nubian communities. From handcrafted trays to heritage-inspired furniture, it brings tradition to the digital world through a smooth and elegant online shopping platform.
+_Bl3araby_ is more than just a clothing brand—it's a statement of identity, culture, and pride. Born from a deep appreciation for the richness of the Arabic language and heritage, we produce thoughtfully crafted clothing that speak from the heart and wear our culture with pride.
 
 ---
 
@@ -29,6 +29,7 @@ Bl3araby connects people with authentic cultural products from across the Arabia
 
 ## 🌟 Key Features
 
+- 🌍 On the spot Arabic/English translation
 - 🎨 Beautiful, responsive design tailored for all devices
 - 🛍️ Dynamic product listing with cultural storytelling
 - 🧾 Shopping cart and streamlined checkout process
@@ -47,34 +48,22 @@ As the **full-stack developer**, I handled:
 
 ---
 
-## 🖼️ Screenshots
-
-> *Add these screenshots to a `/screenshots` folder and update the paths below.*
-
-![Homepage](./screenshots/homepage.png)
-*Homepage showcasing featured products.*
-
-![Product Page](./screenshots/product-page.png)
-*Detailed view of a product with cultural context.*
-
----
-
 ## 🔒 Source Code
 
 > **The source code for this project is private to respect client confidentiality.**
 
-If you'd like to discuss similar projects or collaboration opportunities, feel free to [contact me](mailto:your.email@example.com).
+If you'd like to discuss similar projects or collaboration opportunities, feel free to contact me through john.f.roufaeil@gmail.com or connect with me through [LinkedIn](https://www.linkedin.com/in/john-roufaeil).
 
 ---
 
 ## 🙌 Acknowledgments
 
-Special thanks to **Belaraby** for trusting me with this project.
+Special thanks to **Bl3araby** team for trusting me with this project.
 
 ---
 
 <div align="center">
-  <a href="https://belaraby-five.vercel.app/" target="_blank">
+  <a href="https://bl3araby.store/" target="_blank">
     👉 <strong>Explore the Live Website</strong> 👈
   </a>
 </div>
